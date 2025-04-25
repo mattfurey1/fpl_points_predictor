@@ -51,7 +51,7 @@ This project uses player-level game-by-game data from an FPL dataset to train an
 
 `README.md`: Project overview and methodology.
 
-## Citation
+## Data Source (merged_gw.csv) Citation
 @misc{anand2016fantasypremierleague,
   title = {{FPL Historical Dataset}},
   author = {Anand, Vaastav},
